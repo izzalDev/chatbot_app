@@ -37,9 +37,9 @@ jobs:
      - run: flutter config --enable-macos-desktop
      - run: flutter build macos
      - uses: actions/upload-artifact@v1
-        with:
-          name: MacOS x86_64
-          path: build/macos/Build/Products/Release/chatbot_app.app
+      with:
+        name: MacOS x86_64
+        path: build/macos/Build/Products/Release/chatbot_app.app
 
 jobs:
  build:
