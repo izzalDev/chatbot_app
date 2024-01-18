@@ -38,8 +38,7 @@ class _ChatPageState extends State<ChatPage> {
   }
 
   Future<void> _sendRequest(String text) async {
-    final apiUrl = 'http://127.0.0.1:5000/predict'; // Ganti dengan alamat server Flask Anda
-
+    final apiUrl = 'http://127.0.0.1:5000/predict';
     try {
       final response = await http.post(
         Uri.parse(apiUrl),
