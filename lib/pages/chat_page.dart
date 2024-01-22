@@ -38,7 +38,7 @@ class _ChatPageState extends State<ChatPage> {
   }
 
   Future<void> _sendRequest(String text) async {
-    final apiUrl = 'http://103.150.93.23:5000/predict';
+    final apiUrl = 'https://api-chatbot.izzal.my.id/predict';
     try {
       final response = await http.post(
         Uri.parse(apiUrl),
