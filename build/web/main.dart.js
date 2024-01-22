@@ -42923,7 +42923,7 @@ return new A.ye(new A.uo(B.Qg,new A.QJ(s,s,1/0,56),s),new A.FG(this.d,new A.ad1(
 vI(a){return this.a88(a)},
 a88(a){var s=0,r=A.T(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e
 var $async$vI=A.U(function(b,c){if(b===1){p=c
-s=q}while(true)switch(s){case 0:f="http://127.0.0.1:5000/predict"
+s=q}while(true)switch(s){case 0:f="http://103.150.93.23:5000/predict"
 q=3
 j=A.ef(f,0,null)
 i=t.N
