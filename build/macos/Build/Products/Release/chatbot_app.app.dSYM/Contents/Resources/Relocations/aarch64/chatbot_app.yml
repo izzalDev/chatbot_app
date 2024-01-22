@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/izzal/Repository/chatbot_app/build/macos/Build/Products/Release/chatbot_app.app/Contents/MacOS/chatbot_app'
+relocations:
+  - { offsetInCU: 0x27, offset: 0xF1EA8, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x100001774, symSize: 0xF8 }
+  - { offsetInCU: 0x87, offset: 0xF1F08, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x100001774, symSize: 0xF8 }
+  - { offsetInCU: 0x161, offset: 0xF1FE2, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app17MainFlutterWindowC11contentRect9styleMask7backing5deferACSo6CGRectV_So013NSWindowStyleI0VSo18NSBackingStoreTypeVSbtcfcTo', symObjAddr: 0xF8, symBinAddr: 0x10000186C, symSize: 0x8C }
+  - { offsetInCU: 0x1AC, offset: 0xF202D, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app17MainFlutterWindowCfD', symObjAddr: 0x184, symBinAddr: 0x1000018F8, symSize: 0x30 }
+  - { offsetInCU: 0x1E9, offset: 0xF206A, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app17MainFlutterWindowCMa', symObjAddr: 0x1B4, symBinAddr: 0x100001928, symSize: 0x20 }
+  - { offsetInCU: 0x1FD, offset: 0xF207E, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app24RegisterGeneratedPlugins8registryySo21FlutterPluginRegistry_p_tFTf4e_nSo0G14ViewControllerC_Tg5', symObjAddr: 0x1D4, symBinAddr: 0x100001948, symSize: 0x1D8 }
+  - { offsetInCU: 0x27, offset: 0xF2327, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x100001B20, symSize: 0x8 }
+  - { offsetInCU: 0x4B, offset: 0xF234B, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x100001B20, symSize: 0x8 }
+  - { offsetInCU: 0x85, offset: 0xF2385, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app11AppDelegateCACycfcTo', symObjAddr: 0x8, symBinAddr: 0x100001B28, symSize: 0x3C }
+  - { offsetInCU: 0xC0, offset: 0xF23C0, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app11AppDelegateCfD', symObjAddr: 0x44, symBinAddr: 0x100001B64, symSize: 0x30 }
+  - { offsetInCU: 0xEE, offset: 0xF23EE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x74, symBinAddr: 0x100001B94, symSize: 0x18 }
+  - { offsetInCU: 0x10C, offset: 0xF240C, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app11AppDelegateCMa', symObjAddr: 0x8C, symBinAddr: 0x100001BAC, symSize: 0x20 }
+  - { offsetInCU: 0x2B, offset: 0xF25B8, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app19ResourceBundleClass33_052BCAA679931B8258F7198694F58303LLCfD', symObjAddr: 0x0, symBinAddr: 0x100001BCC, symSize: 0x10 }
+  - { offsetInCU: 0x55, offset: 0xF25E2, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app19ResourceBundleClass33_052BCAA679931B8258F7198694F58303LLCfD', symObjAddr: 0x0, symBinAddr: 0x100001BCC, symSize: 0x10 }
+  - { offsetInCU: 0x86, offset: 0xF2613, size: 0x8, addend: 0x0, symName: '_$s11chatbot_app19ResourceBundleClass33_052BCAA679931B8258F7198694F58303LLCMa', symObjAddr: 0x10, symBinAddr: 0x100001BDC, symSize: 0x20 }
+...

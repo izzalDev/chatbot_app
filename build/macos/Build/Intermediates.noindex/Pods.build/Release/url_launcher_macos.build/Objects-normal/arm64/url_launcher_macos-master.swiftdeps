@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "c2f27075ffb84f130c27e9756c2cfaa14d0b4f5f5897d5341364ceba244e3583"
+build_start_time: [1705726669, 403913000]
+build_end_time: [1705726682, 222542000]
+inputs:
+  "/Users/izzal/.pub-cache/hosted/pub.dev/url_launcher_macos-3.1.0/macos/Classes/UrlLauncherPlugin.swift": [1705538876, 808838677]
+  "/Users/izzal/.pub-cache/hosted/pub.dev/url_launcher_macos-3.1.0/macos/Classes/messages.g.swift": [1705538876, 809232710]

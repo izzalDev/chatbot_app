@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "eb0217467a337609f69dfbb26e09861628e81bc9658e1c2b2c5d4fc2327a5b22"
+build_start_time: [1705726669, 429021000]
+build_end_time: [1705726682, 235124000]
+inputs:
+  "/Users/izzal/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1/darwin/Classes/PathProviderPlugin.swift": [1705527144, 630322052]
+  "/Users/izzal/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1/darwin/Classes/messages.g.swift": [1705527144, 630163842]

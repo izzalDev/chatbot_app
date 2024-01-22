@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "b60f86fe745477badc3d83a64812aed29a103354b65fe3f7f7464ab90f1947ef"
+build_start_time: [1705728505, 574016000]
+build_end_time: [1705728508, 995356000]
+inputs:
+  ? "/Users/izzal/Repository/chatbot_app/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1705726714, 918428296]
+  "/Users/izzal/Repository/chatbot_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1705728475, 119835605]
+  "/Users/izzal/Repository/chatbot_app/macos/Runner/AppDelegate.swift": [1705508052, 290081317]
+  "/Users/izzal/Repository/chatbot_app/macos/Runner/MainFlutterWindow.swift": [1705508052, 292882709]
